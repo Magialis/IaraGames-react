@@ -342,7 +342,7 @@ A Vercel detecta o Vite automaticamente, executa `npm run build` e publica a pas
 ## Links do Projeto
 
 - [Vídeo Pitch no Youtube](https://www.youtube.com/watch?v=1nLc02NSIe0)
-- [Página inicial hospedada na Vercel]([LINK-DA-VERCEL])
+- [Página inicial hospedada na Vercel](https://iaragames-react.vercel.app/)
 
 
 ## Membros
@@ -351,3 +351,4 @@ A Vercel detecta o Vite automaticamente, executa `npm run build` e publica a pas
 - Laura Zapata
 - Matheus Felipe
 - Arthur Ramos
+- Renato Fideliz
