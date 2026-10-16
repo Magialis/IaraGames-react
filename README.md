@@ -1,4 +1,4 @@
-# Projeto Iara Games - Grupo 4
+# Projeto Iara Games
 
 Bem vindo(a) ao repositório do Iara Games, projeto desenvolvido no curso de graduação de Web Design na FIAP.
 
